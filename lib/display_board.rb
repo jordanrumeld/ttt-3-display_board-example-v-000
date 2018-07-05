@@ -3,6 +3,6 @@ def display_board
   puts cell = "   |   |   "
   puts row1 = "-----------"
   puts cell2 = "   |   |   "
-  puts row 2 = "-----------"
+  puts row2 = "-----------"
   puts cell3 = "   |   |   "
 end
